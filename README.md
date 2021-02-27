@@ -12,3 +12,5 @@ Example on a project that uses this:
 https://www.adatainment.com/index.php?page=video_search_ama
 
 http://cardanor.com/ama2/
+
+Added RFC 8259 JSON at /json
