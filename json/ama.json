@@ -1,1 +1,402 @@
-
+{
+  "Credits": [
+    {
+      "name": "StakeLake [LAKE] Cardano Stake Pool",
+      "url": "https://adapools.org/pool/abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810",
+      "wallet": ""
+    },
+    {
+      "name": "NORWAY [NOR] (Stake Pool)",
+      "url": "https://adapools.org/pool/e687aac4b89e544df7aa84ca7c57e7702c8c411a0ca2e1d15191549d",
+      "wallet": ""
+    },
+	{
+      "name": "Fili Lem",
+      "url": "https://www.youtube.com/channel/UChNI8DXFk9gdq3qI8JxuaTw",
+      "wallet": ""
+    },
+	{
+      "name": "IOHK",
+      "url": "https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w",
+      "wallet": ""
+    },
+	{
+      "name": "Andrew Wild",
+      "url": "https://www.youtube.com/channel/UCWW0pESNADjYWMFGozqXZUg",
+      "wallet": ""
+    },
+	{
+      "name": "The Munter",
+      "url": "https://www.youtube.com/channel/UC1_XneXIe4zoRYwimjZTdkw",
+      "wallet": ""
+    },
+	{
+      "name": "ADAtainment",
+      "url": "https://www.adatainment.com/",
+      "wallet": ""
+    },
+	{
+      "name": "Disseminate Dissent",
+      "url": "https://www.youtube.com/channel/UCaymCOG2UFMFvuRtFFFSL5Q",
+      "wallet": ""
+    },
+	{
+      "name": "Carlos Sotera",
+      "url": "https://www.youtube.com/channel/UC2L0jK28wDeg_UK1JGWczfw",
+      "wallet": ""
+    },
+	{
+      "name": "Xi Xiao",
+      "url": "https://www.youtube.com/channel/UCJVybAmKQNvjQ7dJ4zTDMRg",
+      "wallet": ""
+    },
+	{
+      "name": "Charles Hoskinson",
+      "url": "https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg",
+      "wallet": ""
+    },
+	{
+      "name": "Masahiro Hayamoto Jr.",
+      "url": "https://www.youtube.com/channel/UCStm7eC0u7yU6Qewi_kgi9Q",
+      "wallet": ""
+    }
+  ],
+  "AMA": [
+    {
+      "name": "Surprise AMA 02/26/2021",
+      "url": "https://www.youtube.com/watch?v=6eD_rnII3ms",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/6eD_rnII3ms",
+      "credit": "NORWAY [NOR] (Stake Pool)"
+    },
+	{
+      "name": "Surprise AMA 02/22/2021",
+      "url": "https://www.youtube.com/watch?v=VPUiy0PZ4zU",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/VPUiy0PZ4zU",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Surprise AMA 02/09/2021",
+      "url": "https://www.youtube.com/watch?v=K3l3_SAGXEE",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/K3l3_SAGXEE",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Surprise AMA 01/22-23/2021",
+      "url": "https://www.youtube.com/watch?v=U43ewK1tyv0",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/U43ewK1tyv0",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Surprise AMA 01/16/2021",
+      "url": "https://www.youtube.com/watch?v=yzqY8zwVYp4",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/yzqY8zwVYp4",
+      "credit": "Fili Lem"
+    },
+	{
+      "name": "Surprise AMA 01/10/2021",
+      "url": "https://www.youtube.com/watch?v=iLq6mRk2dyg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/iLq6mRk2dyg",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Special Edition New Years AMA 2020",
+      "url": "https://www.youtube.com/watch?v=GtWt68kp1dg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/GtWt68kp1dg",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Christmas AMA 12/23/2020",
+      "url": "https://www.youtube.com/watch?v=idkKFmHW7EE",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/idkKFmHW7EE",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Surprise AMA! 12/12/2020",
+      "url": "https://www.youtube.com/watch?v=GlVU8ZiVUL0",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/GlVU8ZiVUL0",
+      "credit": "StakeLake [LAKE] Cardano Stake Pool"
+    },
+	{
+      "name": "Surprise AMA 11/10/2020",
+      "url": "https://www.youtube.com/watch?v=eWPhHqWU-gc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/eWPhHqWU-gc",
+      "credit": "NORWAY [NOR] (Stake Pool)"
+    },
+	{
+      "name": "Surprise AMA 10/27/2020",
+      "url": "https://www.youtube.com/watch?v=Vbg8qmWH5Zs",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/Vbg8qmWH5Zs",
+      "credit": "NORWAY [NOR] (Stake Pool)"
+    },
+	{
+      "name": "Surprise AMA 10/10/2020",
+      "url": "https://www.youtube.com/watch?v=Fvri92MyTpw",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/Fvri92MyTpw",
+      "credit": "NORWAY [NOR] (Stake Pool)"
+    },
+	{
+      "name": "Surprise AMA 10/03/2020",
+      "url": "https://www.youtube.com/watch?v=pv8Y4ZXoYoE",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/pv8Y4ZXoYoE",
+      "credit": "IOHK"
+    },
+	{
+      "name": "Surprise AMA 09/26/2020",
+      "url": "https://www.youtube.com/watch?v=TF9nfwmgWPA",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/TF9nfwmgWPA",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 09/08/2020",
+      "url": "https://www.youtube.com/watch?v=JITBR2SwynU",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/JITBR2SwynU",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 08/30/2020",
+      "url": "https://www.youtube.com/watch?v=lIz3GnCHbOc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/lIz3GnCHbOc",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 08/14/2020",
+      "url": "https://www.youtube.com/watch?v=4kB_bnYNGlc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/4kB_bnYNGlc",
+      "credit": ""
+    },
+	{
+      "name": "August 1st, 2020 Surprise AMA",
+      "url": "https://www.youtube.com/watch?v=6dhbg_hJTqA",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/6dhbg_hJTqA",
+      "credit": ""
+    },
+		{
+      "name": "Surprise AMA 07/05/2020",
+      "url": "https://www.youtube.com/watch?v=W0RKoiThLKU",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/W0RKoiThLKU",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 06/29/2020",
+      "url": "https://www.youtube.com/watch?v=T5Z3OcBmzGw",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/T5Z3OcBmzGw",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 06/20/2020",
+      "url": "https://www.youtube.com/watch?v=NaR5W78eFo4",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/NaR5W78eFo4",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 06/16/2020",
+      "url": "https://www.youtube.com/watch?v=hGtijUxl0q4",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/hGtijUxl0q4",
+      "credit": "Andrew Wild"
+    },
+	{
+      "name": "Surprise AMA 06/09/2020",
+      "url": "https://www.youtube.com/watch?v=UgBt737xZRQ",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/UgBt737xZRQ",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 06/05/2020",
+      "url": "https://www.youtube.com/watch?v=6pQzQbVgX7c",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/6pQzQbVgX7c",
+      "credit": "Andrew Wild"
+    },
+	{
+      "name": "Surprise AMA 05/29/2020",
+      "url": "https://www.youtube.com/watch?v=caGuh653wVI",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/caGuh653wVI",
+      "credit": "Andrew Wild"
+    },
+	{
+      "name": "Sunday AMA 05/17/2020",
+      "url": "https://www.youtube.com/watch?v=-CJ5pcullgg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/-CJ5pcullgg",
+      "credit": "Andrew Wild"
+    },
+	{
+      "name": "Saturday Night Live AMA 04/18/2020",
+      "url": "https://www.youtube.com/watch?v=a3bQ1u4DYns",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/a3bQ1u4DYns",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 03/19/2020",
+      "url": "https://www.youtube.com/watch?v=9rClM2pLNmo",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/9rClM2pLNmo",
+      "credit": ""
+    },
+		{
+      "name": "Sunday AMA March 15, 2020",
+      "url": "https://www.youtube.com/watch?v=ZQEZvK8sHxg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/ZQEZvK8sHxg",
+      "credit": ""
+    },
+	{
+      "name": "AMA February 16th, 2020",
+      "url": "https://www.youtube.com/watch?v=WxQm18eeSk0",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/WxQm18eeSk0",
+      "credit": ""
+    },
+	{
+      "name": "Cardano AMA Jan 3rd, 2020",
+      "url": "https://www.youtube.com/watch?v=CBGYIHb600w",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/CBGYIHb600w",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA December 5th, 2019",
+      "url": "https://www.youtube.com/watch?v=lxTeoSN02T4",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/lxTeoSN02T4",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA November 29th, 2019",
+      "url": "https://www.youtube.com/watch?v=iihGKFoQpvk",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/iihGKFoQpvk",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 11/21/2019 From Dubai",
+      "url": "https://www.youtube.com/watch?v=lSVNj3g6sDM",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/lSVNj3g6sDM",
+      "credit": ""
+    },
+	{
+      "name": "Surprise Quick AMA November 7th, 2019",
+      "url": "https://www.youtube.com/watch?v=Ch2EgLZYtxE",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/Ch2EgLZYtxE",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA November 2nd, 2019",
+      "url": "https://www.youtube.com/watch?v=5WnbqhFkwJo",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/5WnbqhFkwJo",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 10/21/2019",
+      "url": "https://www.youtube.com/watch?v=LHjbIVxNQY4",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/LHjbIVxNQY4",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 10/06/2019",
+      "url": "https://www.youtube.com/watch?v=qEySNR8NQvg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/qEySNR8NQvg",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 08-30-2019",
+      "url": "https://www.youtube.com/watch?v=bmkQDlhsNGc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/bmkQDlhsNGc",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 08/04/2019",
+      "url": "https://www.youtube.com/watch?v=TjV4KG90_LU",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/TjV4KG90_LU",
+      "credit": ""
+    },
+	{
+      "name": "Special 4th of July Surprise AMA",
+      "url": "https://www.youtube.com/watch?v=1qoeLinJ3rg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/1qoeLinJ3rg",
+      "credit": ""
+    },
+	{
+      "name": "Georgia Special AMA 06/18/2019",
+      "url": "https://www.youtube.com/watch?v=v2718ahybAc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/v2718ahybAc",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 05/26/2019",
+      "url": "https://www.youtube.com/watch?v=tz7oMMsdOtM",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/tz7oMMsdOtM",
+      "credit": ""
+    },
+	{
+      "name": "Short AMA 05/20/2019",
+      "url": "https://www.youtube.com/watch?v=umQDlQkHeQM",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/umQDlQkHeQM",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 04/25/2019",
+      "url": "https://www.youtube.com/watch?v=hO8eOlMJggM",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/hO8eOlMJggM",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 03/31/2019",
+      "url": "https://www.youtube.com/watch?v=sc4D2KrvaNA",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/sc4D2KrvaNA",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 03/24/2019",
+      "url": "https://www.youtube.com/watch?v=K866-fSg9yg",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/K866-fSg9yg",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 03/12/2019",
+      "url": "https://www.youtube.com/watch?v=f-rqaTLwWgs",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/f-rqaTLwWgs",
+      "credit": "The Munter"
+    },
+	{
+      "name": "Another Surprise AMA 02/16/2019",
+      "url": "https://www.youtube.com/watch?v=1zR9gMSIZKs",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/1zR9gMSIZKs",
+      "credit": "The Munter"
+    },
+	{
+      "name": "AMA 01/15/2019",
+      "url": "https://www.youtube.com/watch?v=pQakcFK72Oc",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/pQakcFK72Oc",
+      "credit": "ADAtainment"
+    },
+	{
+      "name": "Surprise Holiday AMA",
+      "url": "https://www.youtube.com/watch?v=bcMNm6QeGkY",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/bcMNm6QeGkY",
+      "credit": ""
+    },
+	{
+      "name": "Surprise AMA 11/16/2018",
+      "url": "https://www.youtube.com/watch?v=zgSLvhlZ1LI",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/zgSLvhlZ1LI",
+      "credit": "Disseminate Dissent"
+    },
+		{
+      "name": "Surprise AMA from Charles",
+      "url": "https://www.youtube.com/watch?v=kmnbzUwlm0s",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/kmnbzUwlm0s",
+      "credit": "Carlos Sotera"
+    },
+	{
+      "name": "Surprise AMA with Bonus Questions",
+      "url": "https://www.youtube.com/watch?v=jM4qbRkWeX0",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/jM4qbRkWeX0",
+      "credit": "Xi Xiao"
+    },
+	{
+      "name": "Surprise AMA with Charles Hoskinson 08/10/2018",
+      "url": "https://www.youtube.com/watch?v=T2naZzzsaus",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/T2naZzzsaus",
+      "credit": "Charles Hoskinson"
+    },
+		{
+      "name": "Surprise AMA with Charles",
+      "url": "https://www.youtube.com/watch?v=Z_WrH6EPAQs",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/Z_WrH6EPAQs",
+      "credit": "Masahiro Hayamoto Jr."
+    }
+	]
+}
