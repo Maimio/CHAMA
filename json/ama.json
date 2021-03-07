@@ -62,6 +62,12 @@
     }
   ],
   "AMA": [
+{
+      "name": "Sunday AMA 03/07/2021",
+      "url": "https://www.youtube.com/watch?v=Z8vN6Ol7cgI",
+	  "timestamps": "https://raw.githubusercontent.com/Maimio/CHAMA/main/timestamps/Z8vN6Ol7cgI",
+      "credit": "NORWAY [NOR] (Stake Pool)"
+    },
     {
       "name": "Surprise AMA 02/26/2021",
       "url": "https://www.youtube.com/watch?v=6eD_rnII3ms",
