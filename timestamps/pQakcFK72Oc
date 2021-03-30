@@ -1,0 +1,22 @@
+00:00 Intro
+01:30 Internal workshop in Berlin
+11:00 How do we get to Shelley
+19:30 How do we build up stake pools.
+21:38 Gradual decentralization
+27:50 Plutus, Marlow, extended UTXO, mockchain
+31:00 Multi asset, staking rewards, terminal support, API extensions
+35:35 Threshold Multi Signature (TMS), lite client, sidechains, very fast bootstrapping
+38:40 What Cardano makes super competitive in 2019
+39:45 Fairness of POS vs POW
+42:00 Daedalus dapp platform
+51:50 Satellite staking pools / backbones and alternatives
+58:42 possible password corruption edge case with Daedalus
+1:01:30 if Crypto Kitties would be ported to Cardano would it be sizably better? (scalability, TPS, trade-off between throughput and latency) 
+1:14:40 Are you patenting? 
+1:16:05 You know jiu-jitsu?
+1:16:50 Is it possible to tokenize intellectual property rights on Cardano? (non fungible assets, DRM in games)
+1:22:02 When can we expect Daedalus support for Ledger?
+1:24:44 When docker images? (docker image is an easy way to provide and execute code, like for stake pool nodes)
+1:25:35 Embedded images on old address styles
+1:26:00 Tripoli Symposium
+1:27:00 Cardano blockchain deployment Ethiopia, MOOC
