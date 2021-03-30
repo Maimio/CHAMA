@@ -15,6 +15,8 @@ https://www.adatainment.com/index.php?page=video_search_ama
 
 http://cardanor.com/
 
+Only ask you give appropriate credit to the author of the timestamps.
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
