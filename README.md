@@ -7,7 +7,7 @@ All timestamps are listed as /timestamps/YouTube Video ID
   
 Have included an index from new to old in a file name index.
 
-Example on a project that uses this: 
+Example of projects that uses these timestamps:
 
 https://www.adatainment.com/index.php?page=video_search_ama
 
