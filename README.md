@@ -15,4 +15,4 @@ https://www.adatainment.com/index.php?page=video_search_ama
 
 http://cardanor.com/
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
